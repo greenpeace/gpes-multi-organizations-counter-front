@@ -55,8 +55,9 @@ OBS: Si vuestro sitio web no usa jQuery, tendréis que cargar la librería con u
 
 Si vuestro sistema da problemas en insertar CSS y Javscript en las páginas podreéis usar un iframe
 
-https://apis.greenpeace.es/multi-organizations-counter/
-
+```html
+<iframe src="https://apis.greenpeace.es/multi-organizations-counter/" width="200" height="40" frameborder=0 style="overflow:hidden;" scrolling="no" /></iframe>
+```
 
 ## Incrementar el contador
 
