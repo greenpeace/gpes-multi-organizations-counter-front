@@ -71,7 +71,7 @@ Ciertas organizaciones, como Greenpeace, no tienen página de gracias independie
 
 ```javascript
 {
-    const container = document.getElementsByTagName("body");
+    const container = document.getElementsByTagName("body")[0];
     const conversion = document.createElement("img");
     conversion.src = "https://apis.greenpeace.es/multi-organizations-counter/signup/";
     container.appendChild(conversion);
