@@ -48,7 +48,7 @@ Este es el código html/javascript para mostrar el contador. El contador aparece
 OBS: Si vuestro sitio web no usa jQuery, tendréis que cargar la librería con un código así:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" defer></script>
 ```
 
 ## Mostrar el contador usando iframe
